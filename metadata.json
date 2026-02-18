@@ -1,0 +1,5 @@
+{
+  "name": "Poker Calculator - Preflop Poker Equity Calculator",
+  "description": "A professional-grade preflop win rate calculator for Texas Hold'em poker, featuring Monte Carlo simulations and AI-powered strategic advice.",
+  "requestFramePermissions": []
+}
